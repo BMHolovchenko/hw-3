@@ -1,4 +1,3 @@
-package dz3;
 public class ATM {
     public int countBanknotes(int sum) {
         int [] babki = {500, 200, 100, 50, 20, 10, 5, 2, 1};
